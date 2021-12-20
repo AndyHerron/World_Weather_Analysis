@@ -1,4 +1,4 @@
-City,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+City,City Name,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 0,Touros,BR,79.7,broken clouds,-5.1989,-35.4608,INN NEW HORIZON
 1,Katobu,ID,87.31,broken clouds,-4.9408,122.5276,La Ode Husein
 2,San Nicolas,PH,79.95,overcast clouds,18.1725,120.5953,NORTHVIEW Hotel
@@ -25,7 +25,7 @@ City,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 90,Geraldton,AU,81.01,clear sky,-28.7667,114.6,Broadwater Mariner Resort
 98,Eyl,SO,79.23,broken clouds,7.9803,49.8164,Amiin Hotel
 102,Kiunga,PG,89.49,broken clouds,-6.1219,141.2906,Airport Lodge Kiunga
-104,Mareeba,AU,89.44,broken clouds,-17.0,145.4333,Trinity Plains Tourist Park
+104,Mareeba,AU,89.44,broken clouds,-17,145.4333,Trinity Plains Tourist Park
 116,Kavieng,PG,82.38,light rain,-2.5744,150.7967,Nusa Island Retreat
 121,Makakilo City,US,75.52,moderate rain,21.3469,-158.0858,Marriott's Ko Olina Beach Club
 128,Souillac,MU,83.35,clear sky,-20.5167,57.5167,Shanti Maurice Resort & Spa
@@ -60,21 +60,21 @@ City,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 237,Bubaque,GW,77.11,clear sky,11.2833,-15.8333,"Casa Dora, Bubaque"
 238,Hithadhoo,MV,82.36,overcast clouds,-0.6,73.0833,Scoop Guest House
 240,Mumford,GH,78.75,scattered clouds,5.2618,-0.759,Spanish Villa
-242,Merritt Island,US,75.0,clear sky,28.5392,-80.672,
+242,Merritt Island,US,75,clear sky,28.5392,-80.672,
 244,Quatre Cocos,MU,83.08,clear sky,-20.2078,57.7625,Sunrise Attitude Hotel
 248,Kuliyapitiya,LK,85.21,broken clouds,7.4688,80.0401,Rest House
 251,San-Pedro,CI,78.22,light rain,4.7485,-6.6363,Hotel Maria
 252,Manggar,ID,81.25,overcast clouds,-2.8833,108.2667,Guest Hotel
 258,Port Augusta,AU,82.71,broken clouds,-32.5,137.7667,Majestic Oasis Apartments
 266,Flinders,AU,85.8,light rain,-34.5833,150.8552,Shellharbour Resort & Conference Centre
-275,Black River,JM,77.0,clear sky,18.0264,-77.8487,Idlers' Rest Beach Hotel
+275,Black River,JM,77,clear sky,18.0264,-77.8487,Idlers' Rest Beach Hotel
 283,Progreso,MX,76.1,scattered clouds,21.2833,-89.6667,Playa Linda Hotel
 284,Trairi,BR,81.55,overcast clouds,-3.2778,-39.2689,janelas do mar
 288,Oranjestad,AW,79.92,few clouds,12.524,-70.027,Divi Village Golf & Beach Resort
 290,Isangel,VU,82.51,light rain,-19.55,169.2667,Tanna Lodge
 291,Bambous Virieux,MU,86.25,few clouds,-20.3428,57.7575,Casa Tia Villa
 293,Sorong,ID,85.15,few clouds,-0.8833,131.25,Waigo Splash Hotel
-301,Kiama,AU,84.0,overcast clouds,-34.6833,150.8667,The Sebel Kiama Harbourside
+301,Kiama,AU,84,overcast clouds,-34.6833,150.8667,The Sebel Kiama Harbourside
 303,Si Satchanalai,TH,78.58,broken clouds,17.5169,99.7598,Chanalai Resort and Hotel
 309,Catamarca,AR,76.59,few clouds,-28.4696,-65.7852,Amerian Catamarca Park Hotel
 312,Poum,NC,79.66,scattered clouds,-20.2333,164.0167,Gîte kajeon
@@ -102,14 +102,14 @@ City,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 403,Calabozo,VE,76.46,scattered clouds,8.9242,-67.4293,Hotel Giardini
 405,Lorengau,PG,83.66,overcast clouds,-2.0226,147.2712,Lorengau Harbourside Hotel
 409,Omboue,GA,76.5,overcast clouds,-1.5746,9.2618,Hotel Olako
-413,Garissa,KE,79.0,scattered clouds,-0.4536,39.6401,Sharif Plaza Hotel
+413,Garissa,KE,79,scattered clouds,-0.4536,39.6401,Sharif Plaza Hotel
 414,Dovers,VC,80.13,overcast clouds,12.8833,-61.1833,Ocean Breeze
 416,Cockburn Town,TC,79.54,clear sky,21.4612,-71.1419,Osprey Beach Hotel
 420,Batticaloa,LK,81.28,overcast clouds,7.7102,81.6924,Grand Star Guest House
 422,Conceicao Do Araguaia,BR,75.04,moderate rain,-8.2578,-49.2647,Tarumã Tropical Hotel
 426,Monrovia,LR,77.79,clear sky,6.3005,-10.7969,Sunset Inn
 429,Kloulklubed,PW,82.9,scattered clouds,7.0419,134.2556,Storyboard Beach Resort
-430,Ugoofaaru,MV,81.34,overcast clouds,5.6667,73.0,Ungoofaaru Inn
+430,Ugoofaaru,MV,81.34,overcast clouds,5.6667,73,Ungoofaaru Inn
 436,Lumphat,KH,75.09,overcast clouds,13.4878,106.9816,Lumphat Homestay
 442,Calamar,CO,78.75,overcast clouds,10.2511,-74.9146,Hostal Katyalex
 447,Cayenne,GF,80.1,broken clouds,4.9333,-52.3333,Hôtel Le Dronmi
@@ -171,5 +171,5 @@ City,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 671,Nha Trang,VN,75.2,overcast clouds,12.25,109.1833,Sheraton Nha Trang Hotel & Spa
 673,Vavuniya,LK,81.77,overcast clouds,8.7514,80.4971,Thampa Hotel
 675,Cukai,MY,77.14,overcast clouds,4.25,103.4167,OYO 90038 Dalyla Inn Chalet
-680,El Vigia,VE,75.0,overcast clouds,8.6219,-71.6506,Liceo Bolivariano 19 De Abril
+680,El Vigia,VE,75,overcast clouds,8.6219,-71.6506,Liceo Bolivariano 19 De Abril
 681,Pundaguitan,PH,83.3,scattered clouds,6.3711,126.1689,Leonardo Family Beach House 1
